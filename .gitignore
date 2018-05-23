@@ -23,6 +23,19 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+*.png
+*.txt
+*.tga
+*.wav
+*.fbx
+*.rar
+*.cubemap
+*.zip
+*.obj
+*.tif
+*.max
+*.a
+*.c4d
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -34,3 +47,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Plugins/

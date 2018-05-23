@@ -1,0 +1,183 @@
+# Blender MTL File: 'Flying V Classic.blend'
+# Material Count: 19
+
+newmtl Black
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.033621 0.033621 0.033621
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Willian\Pictures\Textures\Flying V 1.jpg
+
+newmtl Black.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.013910 0.013910 0.013910
+Ks 0.253533 0.253533 0.253533
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Black.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.037568 0.037568 0.037568
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Willian\Pictures\Textures\Flying V 1.jpg
+
+newmtl Black.002_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.037568 0.037568 0.037568
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.366023 0.366023 0.366023
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Stainless Steel.jpg
+
+newmtl Material.001
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.273532 0.196961 0.132106
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Guitar wood.jpg
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.258515 0.175621 0.097711
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Guitar wood.jpg
+
+newmtl Material.010
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.455183 0.461538 0.166860
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Silver
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.492141 0.492141 0.492141
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Willian\Pictures\Textures\Flying V 1.jpg
+
+newmtl Silver.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.229953 0.240435 0.281226
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Steel.jpg
+
+newmtl Silver.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.381589 0.381589 0.381589
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Willian\Pictures\Textures\Flying V 1.jpg
+
+newmtl Silver.002_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.381589 0.381589 0.381589
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Silver_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.492141 0.492141 0.492141
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Steel.jpg
+
+newmtl Strings
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Steel.jpg
+
+newmtl Strings_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.358381 0.358381 0.358381
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Willian\\Pictures\\Images\\Metal.jpg
+
+newmtl White
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.557471 0.557471 0.557471
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl White.002
+Ns 17.647059
+Ka 0.000000 0.000000 0.000000
+Kd 0.366023 0.366023 0.366023
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,16 @@
+{
+  "images" :
+  [
+    {
+      "image" : "Arrow_06.png",
+      "name" : "Arrow_06"
+    },
+    {
+      "image" : "Dollarbill.jpg",
+      "name" : "Dollarbill",
+      "size" : [8.56, 5.4],
+      "uid" : "asdfasdlñajsdlfkjañl",
+      "meta" : "dollar bill"
+    }
+  ]
+}
